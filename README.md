@@ -11,7 +11,7 @@
 4. [Result and Impact](#result-and-impact)
 5. [Conclusion](#conclusion)
 6. [Recommendation](#recommendation)
-
+7. [Limitation](#limitation)
 ## Project Description
 This project conducts a detailed analysis of oil spill data in the Niger Delta region spanning 2021 to 2023. Utilizing SQL Server for data preparation, exploratory data analysis (EDA) techniques in Tableau, and advanced data analysis methods in SQL Server, the project aims to derive meaningful insights.
 
@@ -86,4 +86,13 @@ Considering the analytical outcomes, the following recommendations are proposed:
 
 4. **Investment in Recovery Technologies:** Invest in and promote the use of effective recovery technologies, such as Containment booms, to minimize the environmental impact of oil spills.
 
+## Limitation
+The project faced challenges due to a high number of missing values, particularly in crucial fields like EstimatedQuantity. Additionally, the use of unexplained abbreviations in the dataset limited comprehensive analysis, highlighting the need for more informative and complete data sources.
+
 Your involvement in this data analytics exploration significantly contributes to our understanding of the challenges posed by oil spills in the Niger Delta region. Thank you for joining us on this analytical journey!
+
+😄
+
+|Heading1|Heading2|
+|--------|--------|
+| SQL | Tableau |
